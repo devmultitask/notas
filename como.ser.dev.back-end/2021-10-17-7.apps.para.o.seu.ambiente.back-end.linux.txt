@@ -1,0 +1,16 @@
+# 7 apps para seu ambiente back-end Linux
+
+7 apps para montar o seu ambiente back-end Linux (Ubuntu, Mint, openSUSE, Manjaro, Fedora, Arch, Gentoo, Slackware, qualquer um) . 
+Tudo de graça. 
+Tudo open source.
+----------------------------------------------
+00:40  - 1 - Firefox Developer
+01:06  - 2 - Kate/Gedit
+01:55  - 3 - bash
+02:29  - 4 - Insomnia/Postman
+03:07 -  5 - curl  
+03:31 - 6 - ssh
+03:57 - 7 - git 
+----------------------------------------------
+
+https://youtu.be/T8VvcGrs9Ok

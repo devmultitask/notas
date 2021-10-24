@@ -1,0 +1,17 @@
+# 7 apps para seu ambiente back-end Windows
+
+7 apps para montar o seu ambiente back-end Windows. 
+Tudo de graça. 
+Tudo open source.
+-------------------------------------------------------------------
+00:46  - Ferramentas open source tem vantagem ?
+01:16 - 1 - Firefox Developer
+01:48 - 2 - Notepad++
+02:07 - 3 - Power Shell
+02:38 - 4 - Insomnia/Postman
+03:22 - 5 - curl 
+03:54 - 6 - MobaXterm (ssh)
+04:43 - 7 - git 
+-------------------------------------------------------------------
+
+https://youtu.be/ReX0TXE9SXQ

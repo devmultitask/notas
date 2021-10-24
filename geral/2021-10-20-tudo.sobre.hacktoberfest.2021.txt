@@ -1,0 +1,23 @@
+# tudo sobre Hacktoberfest 2021 !
+
+tudo sobre Hacktoberfest 2021 ! 
+---------------------------------------------------  
+00:24 O que é ?  
+01:14 O que precisa ? 
+01:50 O que ganha ? 
+02:14 Como funciona?  
+03:32 Dizem q tá mais difícil agora? 
+06:05 Cuidado! A minha vacilada de 2020 =(
+07:39 Como achar um projeto com issues para fazer ? 
+10:01 Vale realmente a pena fazer as issues para o Hacktoberfest ?
+---------------------------------------------------  
+*  Discord do Hacktoberfest - https://discord.com/invite/hacktoberfest     
+*  Good First Issue -  goodfirstissue.dev 
+*  github issues - flags:  is:open is:issue archived:false label:hacktoberfest-accepted no:assignee 
+   link: https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+label%3Ahacktoberfest-accepted+no%3Aassignee+++
+ *  meus projetos - https://github.com/boaglio/learnview/issues  
+                   https://github.com/boaglio/DBaaS/issues
+
+---------------------------------------------------  
+
+https://youtu.be/mw82LFK31Vw                   
